@@ -26,4 +26,4 @@ To get started with Project MammaCare, follow these steps:
 
 ## Contact
 
-For questions or inquiries, please contact [Your Name](mailto:chinmayidughrekar@gmail.com).
+For questions or inquiries, please contact [Chinmayi Dughrekar](mailto:chinmayidughrekar@gmail.com).
